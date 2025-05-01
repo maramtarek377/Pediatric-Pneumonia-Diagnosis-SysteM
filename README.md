@@ -18,4 +18,4 @@ pediatric data.
 with pediatric -specific information, offering a more comprehensive assessment
 of the pediatric condition.
 
-![Uploading image.png…]()
+
